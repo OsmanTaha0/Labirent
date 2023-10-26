@@ -1,0 +1,14 @@
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.exe
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.deps.json
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.runtimeconfig.json
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.dll
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.pdb
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfoInputs.cache
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfo.cs
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.dll
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\refint\labirentdeneme.dll
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.pdb
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.genruntimeconfig.cache
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\ref\labirentdeneme.dll
